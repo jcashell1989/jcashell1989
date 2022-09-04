@@ -1,28 +1,33 @@
 # Hi 👋, I'm Julian Leventhal Hicks.
-#### I work on Data at Bird, a micromobility company
-#### I also am working on my Masters of Information & Data Science (MIDS) at UC Berkeley.
+##### I work on Data at Bird, a micromobility company
+##### I also am working on my Masters of Information & Data Science (MIDS) at UC Berkeley.
 
-## 👀 I’m interested in:
+### 👀 I’m interested in:
+These domains:
  - NLP
- - Fun Command Line apps
  - Geospatial Data
- - Machine Learning for Geospatial applications
+ 
+ And these topics:
+  - Mental Health
+  - Decarbonization
+  - Urbanism
+  - Music
 
-## 👨‍💻 I actively use:
+### 👨‍💻 I actively use:
  - Python
  - R
  - Pyspark
  - Airflow
 
-## 📖 I’m familiar with:
+### 📖 I’m familiar with:
  - Tensorflow
  - Pytorch
 
-## 🌱 I'm learning:
+### 🌱 I'm learning:
  - Javascript
  - Julia
 
-## 📫 How to reach me ...
+### 📫 How to reach me ...
  - 📨 julian@levhicks.com
 <!---
 jcashell1989/jcashell1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

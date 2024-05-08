@@ -1,5 +1,5 @@
-# Hi 👋, I'm Julian Leventhal Hicks.
-##### I work on Data at Bird, a micromobility company
+# Hi 👋, I'm Julian.
+##### I work on Data Science at Bird, a micromobility company
 
 ### 👀 I’m interested in:
 These domains:

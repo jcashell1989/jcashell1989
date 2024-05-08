@@ -1,10 +1,9 @@
 # Hi 👋, I'm Julian Leventhal Hicks.
 ##### I work on Data at Bird, a micromobility company
-##### I also am working on my Masters of Information & Data Science (MIDS) at UC Berkeley.
 
 ### 👀 I’m interested in:
 These domains:
- - NLP
+ - Machine Learning
  - Geospatial Data
  
  And these topics:
@@ -23,13 +22,9 @@ These domains:
  - Tensorflow
  - Pytorch
 
-### 🌱 I'm learning:
- - Javascript
- - Julia
-
 ### 📫 How to reach me ...
  - 📨 julian@levhicks.com
- - 🐥 [@DataJulian](https://twitter.com/DataJulian)
+
 <!---
 jcashell1989/jcashell1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -5,9 +5,9 @@
 
 # Julian Hicks
 
-Senior Data Scientist at Bird. I build **evaluation infrastructure for LLMs
-and agents** — golden sets, judge calibration, model-selection sweeps — and
-production ML for shared-mobility demand forecasting.
+Senior Data Scientist at Bird. I build production ML systems, the
+measurement to know whether they work, and the agent tooling to build
+them faster.
 
 </div>
 

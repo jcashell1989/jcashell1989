@@ -11,7 +11,7 @@ them faster.
 
 </div>
 
-### Now
+### Public
 
 - **[asknum-eval](https://github.com/jcashell1989/asknum-eval)** — an eval
   framework for ask-a-question, get-a-number systems: golden SQL parity plus
@@ -26,14 +26,14 @@ them faster.
 
 ### How I work
 
-Agent-native. Claude Code, Codex, Pi, and Hermes Agent are in the loop daily;
+Agent-native. Claude Code, Cursor, Pi, and Hermes Agent are in the loop daily;
 my job is increasingly writing tickets, reviewing diffs, and calibrating how
 much to trust the machines. Corylus exists because I got tired of being the
 manual step.
 
 ### Interests
 
-Urbanism · decarbonization · mental health · music · geospatial everything
+Urbanism · decarbonization · ttRPGs · music · geospatial everything
 
 ### Toolbox
 

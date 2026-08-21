@@ -26,8 +26,7 @@ them faster.
 
 Agent-native. Claude Code, Cursor, Pi, and Hermes Agent are in the loop daily;
 my job is increasingly writing tickets, reviewing diffs, and calibrating how
-much to trust the machines. Corylus exists because I got tired of being the
-manual step.
+much to trust the machines. 
 
 ### Interests
 

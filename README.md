@@ -31,7 +31,7 @@ manual step.
 
 ### Interests
 
-Urbanism · decarbonization · ttRPGs · music · geospatial everything
+Urbanism · decarbonization · ttRPGs · watchmaking · geospatial everything
 
 ### Toolbox
 

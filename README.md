@@ -36,7 +36,7 @@ Urbanism · decarbonization · ttRPGs · watchmaking · geospatial everything
 
 Python · SQL · PySpark · CatBoost · SageMaker · Airflow · MCP · R
 
-💬 [linkedin.com/in/julianchicks](https://linkedin.com/in/julianchicks) · 🕸️ [julian.levhicks.com](https://julian.levhicks.com)
+[LinkedIn](https://linkedin.com/in/julianchicks) · [Website](https://julian.levhicks.com) · [Email](mailto:[EMAIL])
 
 <!---
 jcashell1989/jcashell1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

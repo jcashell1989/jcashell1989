@@ -21,8 +21,6 @@ them faster.
   judged agent work. The agents do the work; a human answers for it.
 - **[flightdeck](https://github.com/jcashell1989/flightdeck)** — a dashboard
   for monitoring and dispatching work across AI coding agents.
-- Owning **Raven**, Bird's demand-forecasting model (100+ cities), from
-  SageMaker training through production inference and switchback experiments.
 
 ### How I work
 
@@ -39,9 +37,7 @@ Urbanism · decarbonization · ttRPGs · music · geospatial everything
 
 Python · SQL · PySpark · CatBoost · SageMaker · Airflow · MCP · R
 
-💬 [linkedin.com/in/julianchicks](https://linkedin.com/in/julianchicks)
-
-🕸️ [julian.levhicks.com](https://julian.levhicks.com)
+💬 [linkedin.com/in/julianchicks](https://linkedin.com/in/julianchicks) · 🕸️ [julian.levhicks.com](https://julian.levhicks.com)
 
 <!---
 jcashell1989/jcashell1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

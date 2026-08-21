@@ -40,6 +40,7 @@ Urbanism · decarbonization · ttRPGs · music · geospatial everything
 Python · SQL · PySpark · CatBoost · SageMaker · Airflow · MCP · R
 
 💬 [linkedin.com/in/julianchicks](https://linkedin.com/in/julianchicks)
+
 🕸️ [julian.levhicks.com](https://julian.levhicks.com)
 
 <!---
